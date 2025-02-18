@@ -14,8 +14,9 @@
  * limitations under the License.
  */
 
-package com.lcl.magicproject.demos.web;
+package com.lcl.web.controller;
 
+import com.lcl.web.model.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;

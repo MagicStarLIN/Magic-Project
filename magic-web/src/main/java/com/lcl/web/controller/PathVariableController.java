@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.lcl.magicproject.demos.web;
+package com.lcl.web.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;

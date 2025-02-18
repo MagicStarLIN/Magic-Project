@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.lcl.magicproject.demos.web;
+package com.lcl.web.model;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
